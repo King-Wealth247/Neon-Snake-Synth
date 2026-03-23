@@ -6,6 +6,8 @@
 
 This contains everything you need to run your app locally.
 
+View app on the Web: https://neon-snake-synth-1016891705488.us-west1.run.app
+
 View your app in AI Studio: https://ai.studio/apps/32dd6ba9-ff4c-4753-b0b1-31b3ce07b68c
 
 ## Run Locally
